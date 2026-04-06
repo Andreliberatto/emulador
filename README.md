@@ -21,16 +21,27 @@ A proposta é combinar uma interface inspirada em sistemas clássicos com tecnol
 
 
 Interface desktop interativa
+
 Janelas redimensionáveis, minimizáveis e organizáveis
+
 Menu de aplicativos (estilo sistema operacional)
+
 Game Center com execução de jogos DOS
+
 Emulação de jogos diretamente no navegador
+
 Persistência de dados via localStorage
+
 🛠 Tecnologias utilizadas
+
 React
+
 Vite
+
 Framer Motion
+
 Lucide React
+
 js-dos
 
 
@@ -48,16 +59,25 @@ O principal objetivo foi desenvolver uma aplicação que demonstrasse:
 
 
 Construção de interfaces complexas com múltiplos estados
+
 Experiência do usuário mais fluida com animações
+
 Integração com bibliotecas externas (emulação)
+
 Organização e escalabilidade de um projeto frontend
-▶️ Como executar
+
+ Como executar
+
+
+
 npm install
 npm run dev
 
 Abra no navegador em:
 
 http://localhost:5173
-📌 Observações
+
+ Observações
+
 
 O projeto foi desenvolvido com foco em portfólio, buscando explorar conceitos avançados de frontend de forma prática e criativa.

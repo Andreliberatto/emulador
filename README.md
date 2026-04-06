@@ -7,10 +7,8 @@ A proposta é combinar uma interface inspirada em sistemas clássicos com tecnol
 <img src="multiplas abas.jpg">
 <img src="projeto emulador.jpg">
 <img src="spotify music.jpg">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="Emulador Game">
+<img src="Area de trabalho">
 
 
 

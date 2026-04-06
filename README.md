@@ -4,7 +4,7 @@ Este projeto é um simulador de sistema operacional rodando no navegador, com fo
 
 A proposta é combinar uma interface inspirada em sistemas clássicos com tecnologias modernas, criando uma experiência interativa e nostálgica.
 
-<img src="area de trabalho.jpeg">
+<img src="Area de trabalho.jpg">
 
  Funcionalidades
 Interface desktop interativa

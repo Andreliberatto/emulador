@@ -17,6 +17,9 @@ A proposta é combinar uma interface inspirada em sistemas clássicos com tecnol
 
 
 🚀 Funcionalidades
+
+
+
 Interface desktop interativa
 Janelas redimensionáveis, minimizáveis e organizáveis
 Menu de aplicativos (estilo sistema operacional)
@@ -29,9 +32,20 @@ Vite
 Framer Motion
 Lucide React
 js-dos
+
+
+
+
+
 🧠 Objetivo do projeto
 
 O principal objetivo foi desenvolver uma aplicação que demonstrasse:
+
+
+
+
+
+
 
 Construção de interfaces complexas com múltiplos estados
 Experiência do usuário mais fluida com animações
